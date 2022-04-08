@@ -1,0 +1,564 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Druhé město",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Michal Ajvaz",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-04-30T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "druhe_mesto_001.md",
+            "xhtml": "druhe_mesto_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_002.md",
+            "xhtml": "druhe_mesto_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_003.md",
+            "xhtml": "druhe_mesto_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_004.md",
+            "xhtml": "druhe_mesto_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_005.md",
+            "xhtml": "druhe_mesto_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_006.md",
+            "xhtml": "druhe_mesto_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_007.md",
+            "xhtml": "druhe_mesto_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_008.md",
+            "xhtml": "druhe_mesto_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_009.md",
+            "xhtml": "druhe_mesto_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_010.md",
+            "xhtml": "druhe_mesto_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_011.md",
+            "xhtml": "druhe_mesto_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_012.md",
+            "xhtml": "druhe_mesto_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_013.md",
+            "xhtml": "druhe_mesto_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_014.md",
+            "xhtml": "druhe_mesto_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_015.md",
+            "xhtml": "druhe_mesto_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_016.md",
+            "xhtml": "druhe_mesto_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_017.md",
+            "xhtml": "druhe_mesto_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_018.md",
+            "xhtml": "druhe_mesto_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_019.md",
+            "xhtml": "druhe_mesto_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_020.md",
+            "xhtml": "druhe_mesto_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_021.md",
+            "xhtml": "druhe_mesto_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_022.md",
+            "xhtml": "druhe_mesto_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_023.md",
+            "xhtml": "druhe_mesto_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_024.md",
+            "xhtml": "druhe_mesto_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_025.md",
+            "xhtml": "druhe_mesto_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_026.md",
+            "xhtml": "druhe_mesto_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "druhe_mesto_027.md",
+            "xhtml": "druhe_mesto_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Druhé město",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Michal Ajvaz",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-04-30T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_001.md",
+        "xhtml": "druhe_mesto_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_002.md",
+        "xhtml": "druhe_mesto_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_003.md",
+        "xhtml": "druhe_mesto_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_004.md",
+        "xhtml": "druhe_mesto_004.xhtml"
+      },
+      {
+        "titleSuggest": "1 Kniha ve fialové vazbě",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_005.md",
+        "xhtml": "druhe_mesto_005.xhtml"
+      },
+      {
+        "titleSuggest": "2 V univerzitní knihovně",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_006.md",
+        "xhtml": "druhe_mesto_006.xhtml"
+      },
+      {
+        "titleSuggest": "3 Petřín",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_007.md",
+        "xhtml": "druhe_mesto_007.xhtml"
+      },
+      {
+        "titleSuggest": "4 Malostranská kavárna",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_008.md",
+        "xhtml": "druhe_mesto_008.xhtml"
+      },
+      {
+        "titleSuggest": "5 Zahrady",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_009.md",
+        "xhtml": "druhe_mesto_009.xhtml"
+      },
+      {
+        "titleSuggest": "6 Noční přednáška",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_010.md",
+        "xhtml": "druhe_mesto_010.xhtml"
+      },
+      {
+        "titleSuggest": "7 Slavnost",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_011.md",
+        "xhtml": "druhe_mesto_011.xhtml"
+      },
+      {
+        "titleSuggest": "8 Bistro na Pohořelci",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_012.md",
+        "xhtml": "druhe_mesto_012.xhtml"
+      },
+      {
+        "titleSuggest": "9 Na věži",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_013.md",
+        "xhtml": "druhe_mesto_013.xhtml"
+      },
+      {
+        "titleSuggest": "10 Chlad skel",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_014.md",
+        "xhtml": "druhe_mesto_014.xhtml"
+      },
+      {
+        "titleSuggest": "11 Obchod v Maiselově ulici",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_015.md",
+        "xhtml": "druhe_mesto_015.xhtml"
+      },
+      {
+        "titleSuggest": "12 Let",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_016.md",
+        "xhtml": "druhe_mesto_016.xhtml"
+      },
+      {
+        "titleSuggest": "13 Karlův most",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_017.md",
+        "xhtml": "druhe_mesto_017.xhtml"
+      },
+      {
+        "titleSuggest": "14 Vinárna U Hada",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_018.md",
+        "xhtml": "druhe_mesto_018.xhtml"
+      },
+      {
+        "titleSuggest": "15 Prostěradla",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_019.md",
+        "xhtml": "druhe_mesto_019.xhtml"
+      },
+      {
+        "titleSuggest": "16 Rejnok",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_020.md",
+        "xhtml": "druhe_mesto_020.xhtml"
+      },
+      {
+        "titleSuggest": "17 Ve zdymadle",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_021.md",
+        "xhtml": "druhe_mesto_021.xhtml"
+      },
+      {
+        "titleSuggest": "18 Nádraží",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_022.md",
+        "xhtml": "druhe_mesto_022.xhtml"
+      },
+      {
+        "titleSuggest": "19 Schody",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_023.md",
+        "xhtml": "druhe_mesto_023.xhtml"
+      },
+      {
+        "titleSuggest": "20 Džungle",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_024.md",
+        "xhtml": "druhe_mesto_024.xhtml"
+      },
+      {
+        "titleSuggest": "21 Skalní chrám",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_025.md",
+        "xhtml": "druhe_mesto_025.xhtml"
+      },
+      {
+        "titleSuggest": "22 Odchod",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_026.md",
+        "xhtml": "druhe_mesto_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "druhe_mesto_027.md",
+        "xhtml": "druhe_mesto_027.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/druhe_mest_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_druhe_mesto_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I---12-12",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-3",
+      "para-style-override-4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "druhe-mesto"
+    },
+    "generatedAt": 1649410658673
+  }
+}

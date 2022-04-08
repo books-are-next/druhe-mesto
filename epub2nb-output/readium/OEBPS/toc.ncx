@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Druhé město</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1 Kniha ve fialové vazbě</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2 V univerzitní knihovně</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3 Petřín</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4 Malostranská kavárna</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5 Zahrady</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_009.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6 Noční přednáška</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_010.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7 Slavnost</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_011.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8 Bistro na Pohořelci</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_012.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9 Na věži</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_013.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10 Chlad skel</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_014.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11 Obchod v Maiselově ulici</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_015.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12 Let</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_016.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13 Karlův most</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_017.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14 Vinárna U Hada</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_018.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>15 Prostěradla</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_019.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>16 Rejnok</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_020.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>17 Ve zdymadle</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_021.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>18 Nádraží</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_022.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>19 Schody</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_023.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>20 Džungle</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_024.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>21 Skalní chrám</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_025.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>22 Odchod</text>
+      </navLabel>
+      <content src="Text/druhe_mesto_026.xhtml#toc_marker-22"/>
+    </navPoint>
+  </navMap>
+</ncx>
