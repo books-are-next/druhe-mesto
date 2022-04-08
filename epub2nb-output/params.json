@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Druhé město",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Michal Ajvaz",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-04-30T00:00:00.000Z"
+      "modified": "2020-04-30T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -30,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "druhe_mesto_001.md",
             "xhtml": "druhe_mesto_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "druhe_mesto_002.md",
             "xhtml": "druhe_mesto_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "druhe_mesto_003.md",
             "xhtml": "druhe_mesto_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "druhe_mesto_004.md",
             "xhtml": "druhe_mesto_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "druhe_mesto_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1 Kniha ve fialové vazbě"
           },
           {
             "filename": "druhe_mesto_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2 V univerzitní knihovně"
           },
           {
             "filename": "druhe_mesto_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3 Petřín"
           },
           {
             "filename": "druhe_mesto_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4 Malostranská kavárna"
           },
           {
             "filename": "druhe_mesto_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5 Zahrady"
           },
           {
             "filename": "druhe_mesto_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6 Noční přednáška"
           },
           {
             "filename": "druhe_mesto_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7 Slavnost"
           },
           {
             "filename": "druhe_mesto_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "8 Bistro na Pohořelci"
           },
           {
             "filename": "druhe_mesto_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "9 Na věži"
           },
           {
             "filename": "druhe_mesto_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "10 Chlad skel"
           },
           {
             "filename": "druhe_mesto_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "11 Obchod v Maiselově ulici"
           },
           {
             "filename": "druhe_mesto_016.md",
@@ -205,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "12 Let"
           },
           {
             "filename": "druhe_mesto_017.md",
@@ -216,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "13 Karlův most"
           },
           {
             "filename": "druhe_mesto_018.md",
@@ -227,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "14 Vinárna U Hada"
           },
           {
             "filename": "druhe_mesto_019.md",
@@ -238,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "15 Prostěradla"
           },
           {
             "filename": "druhe_mesto_020.md",
@@ -249,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "16 Rejnok"
           },
           {
             "filename": "druhe_mesto_021.md",
@@ -260,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "17 Ve zdymadle"
           },
           {
             "filename": "druhe_mesto_022.md",
@@ -271,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "18 Nádraží"
           },
           {
             "filename": "druhe_mesto_023.md",
@@ -282,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "19 Schody"
           },
           {
             "filename": "druhe_mesto_024.md",
@@ -293,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "20 Džungle"
           },
           {
             "filename": "druhe_mesto_025.md",
@@ -304,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "21 Skalní chrám"
           },
           {
             "filename": "druhe_mesto_026.md",
@@ -315,18 +366,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "22 Odchod"
           },
           {
             "filename": "druhe_mesto_027.md",
             "xhtml": "druhe_mesto_027.xhtml",
             "id": 26,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -559,6 +613,6 @@
       "user": "books-are-next",
       "repo": "druhe-mesto"
     },
-    "generatedAt": 1649410658673
+    "generatedAt": 1649410965405
   }
 }

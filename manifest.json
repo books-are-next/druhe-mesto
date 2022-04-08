@@ -1,0 +1,510 @@
+{
+  "author": "Michal Ajvaz",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "ajvaz-druhe-mesto-ff0e8e0",
+  "languagecode": "cs",
+  "modified": "2020-04-30T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Druhé město",
+  "revision": "ff0e8e0",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 09:43:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649411014597
+  },
+  "documents": [
+    {
+      "title": "Druhé město",
+      "file": "druhe_mesto_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "druhe_mesto_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 Kniha ve fialové vazbě • Druhé město",
+      "file": "druhe_mesto_005.html",
+      "words": 1160,
+      "chars": 7259,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "druhe_mesto_002.html",
+      "next": "druhe_mesto_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1 Kniha ve fialové vazbě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 V univerzitní knihovně • Druhé město",
+      "file": "druhe_mesto_006.html",
+      "words": 2293,
+      "chars": 14245,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 2,
+      "prev": "druhe_mesto_005.html",
+      "next": "druhe_mesto_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2 V univerzitní knihovně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 Petřín • Druhé město",
+      "file": "druhe_mesto_007.html",
+      "words": 2065,
+      "chars": 12948,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "druhe_mesto_006.html",
+      "next": "druhe_mesto_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3 Petřín",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 Malostranská kavárna • Druhé město",
+      "file": "druhe_mesto_008.html",
+      "words": 1915,
+      "chars": 11899,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "druhe_mesto_007.html",
+      "next": "druhe_mesto_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4 Malostranská kavárna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 Zahrady • Druhé město",
+      "file": "druhe_mesto_009.html",
+      "words": 1579,
+      "chars": 9602,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 5,
+      "prev": "druhe_mesto_008.html",
+      "next": "druhe_mesto_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5 Zahrady",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 Noční přednáška • Druhé město",
+      "file": "druhe_mesto_010.html",
+      "words": 2128,
+      "chars": 13111,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 6,
+      "prev": "druhe_mesto_009.html",
+      "next": "druhe_mesto_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6 Noční přednáška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 Slavnost • Druhé město",
+      "file": "druhe_mesto_011.html",
+      "words": 2164,
+      "chars": 13311,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 7,
+      "prev": "druhe_mesto_010.html",
+      "next": "druhe_mesto_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7 Slavnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 Bistro na Pohořelci • Druhé město",
+      "file": "druhe_mesto_012.html",
+      "words": 1824,
+      "chars": 10976,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "druhe_mesto_011.html",
+      "next": "druhe_mesto_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8 Bistro na Pohořelci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9 Na věži • Druhé město",
+      "file": "druhe_mesto_013.html",
+      "words": 1328,
+      "chars": 7912,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 9,
+      "prev": "druhe_mesto_012.html",
+      "next": "druhe_mesto_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9 Na věži",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10 Chlad skel • Druhé město",
+      "file": "druhe_mesto_014.html",
+      "words": 1118,
+      "chars": 6873,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 10,
+      "prev": "druhe_mesto_013.html",
+      "next": "druhe_mesto_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10 Chlad skel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11 Obchod v Maiselově ulici • Druhé město",
+      "file": "druhe_mesto_015.html",
+      "words": 3010,
+      "chars": 18395,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 11,
+      "prev": "druhe_mesto_014.html",
+      "next": "druhe_mesto_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11 Obchod v Maiselově ulici",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12 Let • Druhé město",
+      "file": "druhe_mesto_016.html",
+      "words": 1995,
+      "chars": 12149,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 12,
+      "prev": "druhe_mesto_015.html",
+      "next": "druhe_mesto_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12 Let",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13 Karlův most • Druhé město",
+      "file": "druhe_mesto_017.html",
+      "words": 1138,
+      "chars": 6889,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 13,
+      "prev": "druhe_mesto_016.html",
+      "next": "druhe_mesto_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13 Karlův most",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14 Vinárna U Hada • Druhé město",
+      "file": "druhe_mesto_018.html",
+      "words": 1015,
+      "chars": 6207,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 14,
+      "prev": "druhe_mesto_017.html",
+      "next": "druhe_mesto_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14 Vinárna U Hada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15 Prostěradla • Druhé město",
+      "file": "druhe_mesto_019.html",
+      "words": 1784,
+      "chars": 11010,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 15,
+      "prev": "druhe_mesto_018.html",
+      "next": "druhe_mesto_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15 Prostěradla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16 Rejnok • Druhé město",
+      "file": "druhe_mesto_020.html",
+      "words": 1427,
+      "chars": 8650,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "druhe_mesto_019.html",
+      "next": "druhe_mesto_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16 Rejnok",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17 Ve zdymadle • Druhé město",
+      "file": "druhe_mesto_021.html",
+      "words": 2211,
+      "chars": 13484,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 17,
+      "prev": "druhe_mesto_020.html",
+      "next": "druhe_mesto_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17 Ve zdymadle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18 Nádraží • Druhé město",
+      "file": "druhe_mesto_022.html",
+      "words": 2049,
+      "chars": 12763,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 18,
+      "prev": "druhe_mesto_021.html",
+      "next": "druhe_mesto_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18 Nádraží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19 Schody • Druhé město",
+      "file": "druhe_mesto_023.html",
+      "words": 1988,
+      "chars": 12060,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "druhe_mesto_022.html",
+      "next": "druhe_mesto_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19 Schody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20 Džungle • Druhé město",
+      "file": "druhe_mesto_024.html",
+      "words": 2339,
+      "chars": 14495,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 20,
+      "prev": "druhe_mesto_023.html",
+      "next": "druhe_mesto_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20 Džungle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21 Skalní chrám • Druhé město",
+      "file": "druhe_mesto_025.html",
+      "words": 1876,
+      "chars": 11430,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 21,
+      "prev": "druhe_mesto_024.html",
+      "next": "druhe_mesto_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21 Skalní chrám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22 Odchod • Druhé město",
+      "file": "druhe_mesto_026.html",
+      "words": 2154,
+      "chars": 13257,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 22,
+      "prev": "druhe_mesto_025.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22 Odchod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Druhé město",
+      "file": "colophon.html",
+      "words": 138,
+      "chars": 907,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "druhe_mesto_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 40704,
+      "chars": 249866,
+      "ideas": 365
+    },
+    "chapters": {
+      "words": 40560,
+      "chars": 248925,
+      "ideas": 340
+    }
+  }
+}
