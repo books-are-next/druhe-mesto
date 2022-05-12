@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - druhe_mesto_002.html
+  - promo.html
   - druhe_mesto_005.html
   - druhe_mesto_006.html
   - druhe_mesto_007.html

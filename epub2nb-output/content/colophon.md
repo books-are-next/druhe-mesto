@@ -2,12 +2,14 @@
 title: Tiráž
 ---
 
-***
-
-Druhé město
-
-Michal Ajvaz
-
+**Michal Ajvaz    
+Druhé město**  
+Ilustrace na obálce Tanyadzu/Shutterstock.com  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -23,50 +25,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 30. 4. 2020.
 
   
 
 ![image002.jpg](./resources/image002_fmt.png)
-
-
-***
-
-**Michal Ajvaz  
-Druhé město**
-
-  
-
-Ilustrace na obálce Tanyadzu/Shutterstock.com
-
-  
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 1.0 z 30. 4. 2020
-
-  
-
-ISBN 978-80-274-0770-5 (epub)
-
-  
-
-ISBN 978-80-274-0771-2 (pdf)
-
-  
-
-ISBN 978-80-274-0772-9 (prc)
