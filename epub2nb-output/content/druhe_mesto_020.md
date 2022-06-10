@@ -3,6 +3,8 @@ title: 16 Rejnok
 contentType: prose
 ---
 
+<section>
+
 Nahmatal jsem ve tmě studenou kliku domovních dveří. Dveře se se skřípáním otevřely, do tmavé chodby vletěl sníh a švihl mě přes tvář. Zjistil jsem, že jsem propojenými vnitřky domů prošel na Anenské náměstí. Odkudsi se ozýval zuřivý štěkot střídající se s kňučením. Rozhlédl jsem se a uviděl jsem, jak před portálem zrušeného kláštera velký pes doráží s vyceněnými zuby na rejnoka, se kterým jsem se už setkal na Staroměstském náměstí a kterému se zřejmě přece jen podařilo přežít rybí slavnost. Rejnok uhýbal na sněhu před psími zuby a bránil se elektrickými ranami. Pokaždé, když pes dostal ránu, zakňučel a uskočil, ale hned se na rybu vrhl znovu. Bylo vidět, že rejnok už je nesmírně unavený a že elektrické rány jsou pořád slabší. Zato pes útočil stále zuřivěji, rejnok už krvácel na několika místech, kde se do jeho tenkého těla zaryly ostré psí zuby; bylo zřejmé, že nerovný boj se chýlí ke konci. Přiběhl jsem k místu zápasu a psa jsem zahnal. Rejnok ležel tiše a vyčerpaně na sněhu a krvácel ze svých ran, jeho oči se na mne dívaly pohledem plným vděčnosti. Pohladil jsem ho po studeném těle. Měl jsem u sebe malou placatou láhev se starou mysliveckou a chtěl jsem dát rejnokovi napít, ale pak jsem dostal lepší nápad. Vytáhl jsem z kapsy lahvičku, ve které byl zbytek létací tekutiny, opatrně jsem rejnoka nadzvedl a přidržel jsem mu lahvičku u úst na spodní straně těla. „Napij se,“ řekl jsem, „to ti udělá dobře.“ Rejnok zelenou tekutinu hltavě vypil.
 
 Když lektvar začal působit, rejnok hned svým zvířecím instinktem pochopil, co má dělat. Zavlnil lemem těla, vznesl se, plavným letem obkroužil náměstí ve výšce druhého patra a zase se u mých nohou snesl na sníh. Bylo vidět, že tekutina mu dodala novou sílu, i rány na jeho těle přestaly krvácet. Rejnok však neodlétal, neustále se ke mně vracel, přistál vždy u mých bot a trochu netrpělivě se na mne díval. Zdálo se mi, jako by mě k něčemu vybízel. Náhle jsem pochopil. Opatrně jsem se posadil na jeho plochý hřbet a zkřížil jsem nohy jako Turek. Rejnok radostně zavlnil okraji svého těla a vznesl se se mnou.
@@ -26,3 +28,5 @@ Ozvala se tichá monotónní hudba, připomínající zvuky kapek dopadajících
 „Někdy je to docela dobrý,“ hájil výčepní svůj televizor. „Třeba ta groteska, jak ten cvok bojoval na věži se žralokem, to jsme se nasmáli.“
 
 Vypil jsem ještě jedno pivo a civěl jsem na hokejový zápas. Podzemní chrám se však už na obrazovce neobjevil. Zaplatil jsem a vyšel na setmělou ulici, kde opět začal padat sníh.
+
+</section>

@@ -3,6 +3,8 @@ title: 12 Let
 contentType: prose
 ---
 
+<section>
+
 Vyšel jsem z obchodu a chodil jsem nočními ulicemi. V Široké ulici jsem uviděl stát na sněhu mezi dvěma řadami tmavých fasád zámořský parník, jeho paluba se prostírala ve výšce třetího patra domu, v černě nalakovaném boku lodi svítilo několik kulatých okének. Došel jsem k prohnuté boční stěně parníku a dotkl se rukou chladného ocelového plátu. Uslyšel jsem hlasy, které se ozývaly seshora. Ustoupil jsem a zaklonil hlavu: uviděl jsem, jak se na palubě nade mnou objevily dvě postavy a opřely se o zábradlí. Pouliční lampa jim zezdola osvětlovala tvář; byl to mladý muž a dívka. Skryl jsem se pod obloukem ocelové stěny a poslouchal jsem jejich rozhovor.
 
 Dívka řekla: „Plavba už trvá tak dlouho, někdy mám strach, že nikdy nedoplujeme k cíli. Možná, že kapitán ztratil cestu. V jakých divných místech jsme se to octli? Nemám ráda ty řady oken; mám z nich strach, když jsou okna tmavá a po jejich černém skle se roztékají odlesky luceren jako světla lampiček zlých vodních skřetů na hladině nočních studánek v hlubokém lese, ale ještě více se jich bojím, když se okna rozsvěcejí a jsou v nich vidět nehybné kusy nábytku, zdi vymalované divným, znepokojivým vzorkem, hlavy bez těla, s ústy, která se celé hodiny roztahují a smršťují jako mrskající se ryby. Kdy už se konečně dostaneme pryč z téhle ponuré končiny? Je mnohem smutnější než ledovcová pole s fantastickými krami vynořujícími se z šedé mlhy. Nikdo nám o těchto místech nic neříkal, když jsme vyplouvali; jistě bloudíme, démoni nás předjeli na svých rychlých štíhlých lodích a svedli nás z cesty. Připadá mi, že kdybychom přece jen nějakým zázrakem dopluli k cíli, už navždy v nás zůstanou trčet ty těžké a lhostejné kusy nábytku, že kroutící se vzorky tapet zarostou a pohltí všechny naše myšlenky, všechny naše vzpomínky. Třeba bychom se měli pokusit navázat styk s domorodci, třeba by nám vysvětlili, kde jsme, a ukázali by nám cestu…“
@@ -45,7 +47,9 @@ Mladík vyskočil tak prudce, že málem sjel po strmé střeše, musel jsem jej
 
 Tentokrát pták začal skřehotat správný text, odříkával jej však se zjevnou nechutí, a když se na něj jeho pán nedíval, dělal zhnusené obličeje:
 
-  
+</section>
+
+<section>
 
 _„Navečer dorazil na vrchol kopce k otvoru sluje,  
 jež vraty ze zlata zavřena byla; vzácný kov svítil  
@@ -63,7 +67,9 @@ ve kterém zbožné dívky lechtaly lesního boha.
 nevrlí démoni sídlí, jezdící na hřbetech brouků,  
 kteří jsou větší než člověk a zpívají oplzlé písně…“_
 
-  
+</section>
+
+<section>
 
 „Tak už dost, Felixi,“ přerušil ptáčník svého chovance. „Tahle pasáž podle mínění exegetů obsahuje popis pražské kotliny v době, kdy sem přišel zakladatel města, hlavní hrdina eposu. Byl královským synem a sedmým Dargúzovým vtělením. Na svatbě svých dvanácti sester se sousedním králem z roztržitosti zlomil lžičku a král to pokládal za nezdvořilou narážku na příhodu, která se stala jednomu z jeho předků: ten bojoval celý den ve slunečním žáru na vyprahlé pláni se zlou rostlinou, a promeškal tak okamžik, kdy se na kamenné zdi jeho paláce mravenci seskupili do slov věty, ve které se mluvilo o spánku na chrámovém schodišti rozžhaveném sluncem a o monotónním šumění fontán na širokých prázdných náměstích. Král se urazil a na oplátku se začal posmívat tomu, že v zemi našeho hrdiny jsou nejvyšší autoritou ve věcech náboženství zelení ještěři (což byla i nebyla pravda, ale to teď nechme stranou). Podnapilý héros popadl těžký zlatý pohár, na jehož bocích byl reliéf zobrazující bitvu galér na jezeře, a roztříštil jím královi hlavu. Když se ptal ve věštírně, jak by se mohl očistit z vraždy, řekla mu kněžka, že musí hned odejít z království a založit město uprostřed hlubokého pralesa, v místě, kde uvidí domorodce, kteří mluví neznámou řečí a uctívají sochu okřídleného psa, stojící na mýtině. Ale nemohu vám vyprávět obsah celého díla.“
 
@@ -76,3 +82,5 @@ kteří jsou větší než člověk a zpívají oplzlé písně…“_
 „Ale prostě proto, že za ptačí recitaci při slavnostech se velmi slušně platí, to je vše. A nějaké slavnosti se konají pořád. Naši jsou jako děti, pořád něco slaví, jsou směšní s tím svým folklórem. Pořád se chlubí, že jejich obřady jsou utajeným předobrazem řádu vašeho světa a že skrývají jeho zapomenutý smysl: já o tom pochybuju, řekl bych, že je to spíš naopak, že spleť rituálů, která drží pohromadě život našeho města, je jen zmateným odrazem historických událostí, které se odehrály ve vašem světě (my jsme se se svým kultem počátku a opakování na žádné dějiny nikdy nezmohli), že temná dogmata naší mytologie jsou jen rozmazané napodobeniny a náhražky vašich logických zákonů. Naši říkají, že tu byli tisíce let před vámi, ale svá pyšná tvrzení opírají jen o přepjaté a nevkusné legendy podezřelého původu, bůh ví, jakými norami jsme se sem připlazili, abychom obydlili prázdné okraje a dutiny prostoru, který jste vybudovali, parazitujeme na vašem městě, naše mýty vznikají z odpadků vašeho myšlení. Ostatně na tom vůbec nezáleží. Ale vidím, že Felix už spí, budu muset jít. Moc mě těšilo, že jsem se s vámi setkal, snad se tu zase někdy uvidíme.“
 
 Ptáčník popadl klec s Felixem a rychle zmizel ve tmě. Ještě nějaký čas jsem seděl na chrámové střeše a díval se na smutná světla vzdálených luceren, pak jsem se vznesl a pokračoval jsem v letu. Ale účinek létací tekutiny už slábl, letěl jsem těžce, už jsem spíš jen zadržoval máváním rukou pád, a tak jsem se raději snesl do temného Jeleního příkopu. Zabořil jsem se nohama do neporušeného sněhu, nade mnou se proplétaly tmavé koruny vysokých stromů, strmě stoupaly zasněžené svahy, docela nahoře se černaly proti obloze zdi a střechy Hradu.
+
+</section>
