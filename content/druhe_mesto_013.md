@@ -3,6 +3,8 @@ title: 9 Na věži
 contentType: prose
 ---
 
+<section>
+
 Před třetí hodinou v noci jsem otevřel dveře mikulášského chrámu, prošel jsem tmavou lodí a po točitých schodech jsem vystoupil na ochoz zvonice. U zdi byly naváté vysoké závěje, také na kamenném zábradlí ležel netknutý sníh. Nade mnou se tyčil Hrad, příkré střechy Chrámu svatého Víta se bledě a snově leskly ve světle oslnivého úplňku. Obloha byla plná jasných hvězd. Hluboko dole leželo Malostranské náměstí, po jeho mírném svahu se rozlévalo špinavě žluté světlo zářivek. Náměstím projel taxík a zmizel v Tomášské ulici, pak už se nic nepohnulo.
 
 Za chvíli se otevřela branka, která vedla ke schodišti, objevila se v ní dívka z bistra, v hustě vycpané péřové bundě; bunda byla rozepnutá, pod ní se na černém svetru zableskl perlový náhrdelník. Opřela se o kamenné zábradlí, nad jejími tmavými vlasy svítila červená světla petřínských vysílačů. „Bude se dole konat zase nějaká slavnost?“ zeptal jsem se. Dívka neodpověděla, z její tváře s hlubokými stíny pod obočím a pod lícními kostmi jsem nemohl vyčíst žádný výraz.
@@ -20,3 +22,5 @@ Dívka ke mně po špičkách přistoupila blíž, sklonila se nade mnou, až se
 Otevřela se branka a objevil se v ní číšník, dívka se pomalu narovnala a ustoupila stranou, aby se mohl podívat na stav zápasu. Číšník se usmál a spokojeně přikývl. Dívka mě nechala být, šla ke svému otci, ten ji objal a políbil na tvář. Viděl jsem zespodu siluety jejich těl tisknoucích se k sobě před hvězdnou oblohou. Zařekl jsem se, že jestli se mi nějakým zázrakem podaří sestoupit s věže, už nikdy se od číšníka nenechám přemluvit, abych si koupil jeho kremroli. Potom vzal číšník dceru za ruku a oba zmizeli v temném otvoru otevřené branky. Zůstal jsem se žralokem sám na ochozu věže nad spícím městem.
 
 Ještě dlouho jsme se rvali ve sněhu. Nedařilo se mi žraloka setřást, a tak jsem se alespoň snažil zabránit, aby se dostal do polohy, v jaké by mě mohl kousnout. Ale síly mě pozvolna opouštěly. Zvíře to vycítilo a vzepjalo se ke konečnému úderu; v okamžiku, kdy žralok vztyčil své mohutné tělo a široce rozevřel tlamu, aby se mu do ní vešla má hlava, sebral jsem zbytky svých sil, vyskočil jsem a opřel jsem se o něj, ve vratké pozici žralok ztratil rovnováhu a přepadl přes zábradlí; jeho tělo padalo tmou a nabodlo se na vysoký kovový kříž, který držela jedna z kamenných postav na atice mikulášského chrámu. Viděl jsem, jak sebou zmítá ve smrtelné křeči a jak se tím nabodává stále hlouběji na kov kříže. Po chvíli pohyby ustaly, prohnuté tělo žraloka viselo na kříži jako vlajka noci. Dopotácel jsem se po schodech dolů do chrámu, klesl jsem u paty jednoho sloupu na studenou podlahu a okamžitě jsem usnul.
+
+</section>

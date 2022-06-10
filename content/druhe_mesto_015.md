@@ -3,6 +3,8 @@ title: "11 Obchod v\_Maiselově ulici"
 contentType: prose
 ---
 
+<section>
+
 V novinách, které ležely v mléčném baru, jsem objevil krátké texty, o nichž se podle typografické úpravy dalo soudit, že to jsou reklamy. Vedle jednoho z textů byla fotografie výlohy obchodu. Nad výlohou byl připevněný firemní štít s velkými písmeny druhého města; přesto jsem hned poznal podle zaprášených štukových andělíčků nad vchodem parter jednoho domu v Maiselově ulici. V domě byl skutečně obchod, prodávali v něm – alespoň ve dne – boty a ponožky. Že vidím fotografii obchodu s obuví v novinách druhého města, mě nijak zvlášť nepřekvapilo: už jsem leccos tušil o stylu života našich podivných sousedů, a tak mi připadalo přirozené, že podobně jako se na filosofické fakultě střídají přednášky z denních a nočních věd, naplňují se regály obchodů v různých hodinách zbožím dne a zbožím noci.
 
 Ještě téže noci jsem se vydal do Maiselovy ulice. V koutě výlohy obchodu se krčila zapomenutá ponožka jako poslední zbytek světa dne, jinak byla výloha do posledního místa přecpaná soškami, které všechny představovaly známou scénu: tygra zahryzávajícího se do hrdla mladého muže. Sošky byly vyrobené z nejrůznějších materiálů: z porcelánu, ze dřeva, ze skla, z plyše a z perníku. Některé z dřevěných sošek byly na kolečkách a byly zřejmě pohyblivé: spodní čelist tygra byla připojená ke zbytku hlavy čepem; při jízdě se pravděpodobně otvírala a zavírala. Vešel jsem skleněnými dveřmi dovnitř. Vnitřek místnosti byl osvětlený mdlým světlem kulaté stolní lampy z mléčného skla stojící na pultě, za kterým klímal bělovlasý stařec. Po obvodě místnosti se táhly od podlahy až ke stropu police, na nichž ležely hromady těžko určitelných věcí. Světlo lampy bylo tak slabé, že se obrysy věcí na policích rozplývaly v přítmí, připadal jsem si, jako bych se octl ve vnitřku potopené kupecké lodi. Vzdálenější kouty tonuly v neproniknutelné tmě.
@@ -46,3 +48,5 @@ Starci zase klesla hlava na prsa, uslyšel jsem zachrápání. Nebudil jsem jej,
 „Ano, já vím, co říkala Alweyra, viděl jsem vás v televizi. Moc vám to spolu slušelo, byl by z vás opravdu pěkný pár. A ten žralok, jaká to byla krása. To víš, Alweyra se musí ještě hodně učit. Jak bys mohl vůbec něčemu rozumět, jak bys mohl vyslovit sebejednodušší větu, kdybys už dokonale nerozuměl počátku, kdybys sám nebyl počátkem, místem, kde se rodí souhvězdí…“
 
 Stařec opět zavřel oči a sklonil hlavu, za chvíli se ozvalo pomalé šelestivé oddychování, které se mísilo s tichým tikáním a cvakáním přicházejícím z hloubky temných polic.
+
+</section>
