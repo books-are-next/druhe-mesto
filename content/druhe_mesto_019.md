@@ -3,8 +3,6 @@ title: 15 Prostěradla
 contentType: prose
 ---
 
-  
-
 Ještě dlouho jsem seděl za oknem a díval se na prázdné náměstíčko. Začaly se mi klížit oči, z polospánku mě vytrhl hřmot blížícího se automobilu: otevřel jsem oči a uviděl jsem, jak od Clam-Gallasova paláce přijíždí popelářský vůz; byl celý skleněný, průhlednými stěnami bylo vidět hromadu třpytících se zlatých šperků, po kterých se plazili zelení hadi, uprostřed šperků se tyčila rozsvícená pokojová lampa na kovové noze a pod ní stálo bíle povlečené lůžko, na němž se objímali nazí milenci. Vůz se zastavil před hospodou U Modré štiky, popeláři seskočili se stupátka na jeho zadním konci a přivalili popelnice, které stály na chodníku. Když sklápěcí mechanismus převrátil popelnice do vnitřku vozu, vysypaly se z nich další šperky a další vlnící se zelení hadi, šperky se kutálely kolem lůžka, hadi se ovinovali kolem stojanu lampy. Když milenci uslyšeli chřestění zlata, přitiskli se k sobě ještě pevněji a zrychlili své pohyby. Znovu jsem zavřel oči, slyšel jsem, jak popelářský vůz odjíždí, jeho zvuk slábl, až se ztratil za zdmi.
 
 Ozvalo se vzdálené vrčení, které neustále sílilo. Za chvíli se nad náměstíčkem objevila bílá helikoptéra, na jejím spodku byla namalovaná hlava řvoucího tygra. Snesla se níž, kymácivě se zastavila nad sněhem ve výšce stojícího člověka. V jejím okně se rozsvítil silný reflektor, kužel ostrého světla klouzal po fasádách domů, osvětlil vnitřek prázdné hospody, vyšplhal se nahoru do podkroví a sjel zase dolů, pronikal do tmavých pokojů. Nečekal jsem, až zlověstné světlo vnikne do vinárny, zmizel jsem zadním východem do vnitřku domu.
@@ -24,6 +22,8 @@ Peřinová pláň se začala zvedat, přede mnou se objevily svahy pokryté pros
 Byl bych rád pronikl dál do tajemného prostoru, pokoušel jsem se vylézt na matracovou horu, ale svah po nějakém čase začal být tak příkrý, že jsem to musel vzdát. Sestoupil jsem zase dolů, chtěl jsem pohoří obejít, ale měkké hory s peřinami na dně temných proláklin se zvedaly stále strměji. Uslyšel jsem tiché vrčení a zneklidněl jsem. Nad plání se objevila blikající červená světélka, která se ke mně rychle blížila. Byla to helikoptéra s obrazem řvoucího tygra. Začal jsem utíkat, ale za chvíli jsem se zamotal do prostěradla a upadl jsem na matrace. Helikoptéra se zastavila, vznášela se nízko nad plání; prostěradla, probuzená vichrem, který rozpoutala točící se vrtule, se zvedala a tančila ve vzduchu šílený tanec. Oslepilo mě prudké světlo reflektoru, ozval se tvrdý hlas, znetvořený megafonem: „Jste obviněn z nezákonného překročení Hranice, z vyzvědačství, z úmyslného zabití posvátného žraloka a z vyslovování zakázaných samohlásek. Přestaňte klást odpor, lehněte si na břicho a dejte ruce za hlavu!“ Dal jsem se do běhu, utíkal jsem mezi chladnými gejzíry prostěradel šlehajícími do prostoru v ostrém světle reflektoru, které mě stále sledovalo. Jemným hlasem, připomínajícím zvonkohru, se ozval palubní kulomet; náboje se zarývaly do polštářů a peřin, z trhlin stoupala oblaka peří a vznášela se mezi vlnícími se prostěradly. Naučil jsem se při běhu využívat péra matrací, skákal jsem dlouhými skoky, a čím prudčeji jsem dopadl na pláň, tím výš a dál mě matrace zase vymrštila, mé skoky se tak stále prodlužovaly, až jsem nakonec prolétával nad hromadami peřin a nad spícími těly oblouky, které byly dlouhé několik desítek metrů. Helikoptéra mě však obletěla a jako veliký odporný hmyz na mne teď nalétávala zepředu; padl jsem na načechraný polštář a díval se, jak se helikoptéra blíží a klesá, jak se prostěradla zvedají stále výše: jedno z nich se zapletlo do vrtule, helikoptéra zakolísala a upadla na bok do peřin, vrtule, která se nepřestávala točit, rvala prostěradla, peřiny a matrace a vrhala peří, cáry látky a kusy molitanu z matrací do vzduchu, pak se ozval výbuch, jehož zvuk připomínal spíš harmonický akord, který zahrály desítky dechových nástrojů, a helikoptéra zmizela v chladných modrých plamenech.
 
 Zůstal jsem ležet na místě, kam jsem upadl, a trochu se prospal. Byl jsem z divoké honičky tak vyčerpaný, že už jsem neměl sílu k tomu, abych se vrátil k horám a hledal průsmyk, kterým bych pronikl do hloubky jiného prostoru, a tak jsem se po postelové pláni vrátil do tmavého bytu. Oblékl jsem se a chtěl odejít, když jsem uslyšel rázné ťukání na okno. Za sklem stál na římse recitační pták Felix. Měl jsem radost, že se s ním zase setkávám, hned jsem otevřel okno, ale Felix zůstal stát venku, uklonil se a začal rychle recitovat báseň, kterou se mi snažil přednést už při našem prvním setkání na střeše Chrámu svatého Víta. Deklamoval verše s neúměrným pathosem a zdůrazňoval místa, která pokládal za obzvláště významná, máváním křídel a kýváním celého těla, takže jsem měl strach, aby nespadl s římsy.
+
+  
 
 _„Okraje říší, kam nedosáhne moc zákonů středu,  
 kde barbar z plání s šikmýma očima  
@@ -47,7 +47,11 @@ které je pro nás méně viditelné než zlaté síně v nitru pohoří.
 Okraje, odkud zní táhlý zpěv oblud,  
 který zaslechneme jen v tichu noci…“_
 
+  
+
 Při těchto slovech Felix přehnal máchání křídly, kterým doprovázel přednes, a opravdu spadl s římsy. Z hloubky se ozvalo zděšené zavřeštění, ale naštěstí pták stačil pád zvládnout; za chvíli zase vyletěl na římsu a pokračoval.
+
+  
 
 _„Okraje, odkud zní táhlý zpěv oblud,  
 který zaslechneme jen v tichu noci,  
@@ -69,5 +73,7 @@ vytahují hostům z tašek svačiny a jedí je,
 takže je zcela pochopitelné, že hosté začínají mít určité obavy  
 i ohledně obsahu sarkofágů, které zanechali v šatně,  
 a skutečně: když je od šatnářky žádají nazpět…“_
+
+  
 
 Tichým skokem vyskočila na parapet okna kočka, Felix opět zavřeštěl a rychle uletěl. Čekal jsem, jestli se nevrátí a neřekne mi ještě něco o okrajích nebo o tom, co se stalo se sarkofágy v šatně, ale už se neobjevil, a tak jsem vyšel z bytu a sestoupil po tmavém schodišti do přízemní haly domu. Lunetovým výřezem nad domovními dveřmi byl vidět padající sníh ve světle pouliční lucerny.

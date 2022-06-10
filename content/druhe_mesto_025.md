@@ -3,8 +3,6 @@ title: 21 Skalní chrám
 contentType: prose
 ---
 
-  
-
 Po úzkém pruhu písku jsem pokračoval v cestě, po levé straně na černé hladině zářily rudé odlesky požáru, z pravé strany se o mne otírala hustá a omamně vonící džungle. Náhle nad houštím vyvstala skalní stěna. Ležela na ní narudlá záře plamenů z druhého břehu řeky, uviděl jsem, že do skály je vytesaná gigantická Dargúzova tvář: vypadala tak, jak jsem ji viděl na nuselských schodech, strhaná a pohublá, s šílenýma očima. Kamenná tvář byla rozrytá vodou stékající po skále, prohlubně úst a očí byly zarostlé mechem. Nízko nad písečným břehem se ve skále rozvírala puklina, vedly k ní rozpadlé kamenné schůdky, po jejich straně stálo křivé zábradlí z kovových tyčí. Vystoupil jsem po schodech a vešel jsem do vnitřku skály.
 
 Octl jsem se v rozlehlé jeskyni, na jejích stěnách svítily louče a osvětlovaly zašlé fresky zobrazující boje jakýchsi kovových bytostí v nočním parku, za jehož tmavými stromy prosvítala světla tramvaje; strop jeskyně se ztrácel ve tmě. Ve výklenku stál oltář vyrobený z úzké plechové skříňky, jaké se používají v šatnách továren, uvnitř skříňky visely na ramínkách jakési posvátné předměty. Před skříňkou-oltářem seděl na zemi se zkříženýma nohama starý vyzáblý muž v jednoduchém obleku, nedbale sešitém z listů knih, a mumlal si nějaké modlitby nebo zaříkání. Nechtěl jsem ho v posvátných úkonech rušit, a tak jsem rozpačitě čekal, až skončí své rozmluvy s božstvy. Když stařec domumlal, obrátil ke mně vrásčitou asketickou tvář: „Přicházíš si pro kouzelný amulet, nebo potřebuješ vyložit budoucnost?“

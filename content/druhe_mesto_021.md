@@ -3,8 +3,6 @@ title: 17 Ve zdymadle
 contentType: prose
 ---
 
-  
-
 Vydal jsem se na cestu nazpátek ke středu města; podél rozlehlých administrativních budov ze začátku století a podél mříží, za nimiž se bělaly zasněžené parky, jsem scházel dolů k řece, foukal ostrý vítr a vrhal mi do obličeje drobný pichlavý sníh, šel jsem s očima přivřenýma do úzkých štěrbin, v nichž se rozpíjela světla pouličních lamp a automobilů. Procházel jsem po nábřeží pod holými černými stromy, na protější straně ulice se táhly tiché fasády s karyatidami podpírajícími balkony, dole pod kovovým zábradlím tekla tmavá řeka, neviditelná pro oči chodců, spěchajících z místa na místo, stejně jako tichý život těl a jako přízraky koutů. Díval jsem se na tmavou hladinu s chvějícími se světly, uvědomil jsem si, jak se za poslední dny změnilo mé vidění: zasmál jsem se, už jsem jako ti ze skříní a komor, vnímám už skoro jen zbytek světa, okraj, o jehož existenci v mém světě nikdo ani neví, zatímco tvary, mezi nimiž po léta bezpečně plul můj pohled, se začínají rozplývat v mlze. Kdy se sám proměním v přízrak?
 
 Když jsem míjel zdymadlo mezi nábřežím a ostrovem, vzpomněl jsem si, co o něm říkali v hospodě. Opřel jsem se o studené zábradlí a podíval se dolů. Oboje vrata propusti byla zavřená, hladina mezi nimi byla na úrovni řeky nad jezem, ve stínu se tiskla ke zdi z kamenných kvádrů na ostrovní straně zdymadla dlouhá nákladní loď, byly na ní nasypané kuželovité hromady říčního písku, na kterých ležel sníh. Viděl jsem prázdný a tmavý vnitřek vyvýšené kapitánské kabiny, prosklené ze všech stran. Přes můstek jsem se dostal na ostrov a po kovovém žebříku zabudovaném v kamenné zdi zdymadla jsem slezl na palubu lodi.

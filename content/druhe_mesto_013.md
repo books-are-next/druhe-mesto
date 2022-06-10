@@ -3,8 +3,6 @@ title: 9 Na věži
 contentType: prose
 ---
 
-  
-
 Před třetí hodinou v noci jsem otevřel dveře mikulášského chrámu, prošel jsem tmavou lodí a po točitých schodech jsem vystoupil na ochoz zvonice. U zdi byly naváté vysoké závěje, také na kamenném zábradlí ležel netknutý sníh. Nade mnou se tyčil Hrad, příkré střechy Chrámu svatého Víta se bledě a snově leskly ve světle oslnivého úplňku. Obloha byla plná jasných hvězd. Hluboko dole leželo Malostranské náměstí, po jeho mírném svahu se rozlévalo špinavě žluté světlo zářivek. Náměstím projel taxík a zmizel v Tomášské ulici, pak už se nic nepohnulo.
 
 Za chvíli se otevřela branka, která vedla ke schodišti, objevila se v ní dívka z bistra, v hustě vycpané péřové bundě; bunda byla rozepnutá, pod ní se na černém svetru zableskl perlový náhrdelník. Opřela se o kamenné zábradlí, nad jejími tmavými vlasy svítila červená světla petřínských vysílačů. „Bude se dole konat zase nějaká slavnost?“ zeptal jsem se. Dívka neodpověděla, z její tváře s hlubokými stíny pod obočím a pod lícními kostmi jsem nemohl vyčíst žádný výraz.
