@@ -3,8 +3,6 @@ title: 13 Karlův most
 contentType: prose
 ---
 
-  
-
 Příští noci jsem šel Mosteckou ulicí, přede mnou unaveně kráčel starý muž, viděl jsem plandavé kalhoty a sehnutá záda ve vatované bundě, která připomínala oblečení metařů z naší části města. Tlačil před sebou dvoukolový vozík, který byl plný různých plechovek a pytlů a ze kterého trčely dřevěné násady nějakého náčiní. Když došel na most, zastavil se před sousoším svatého Kosmy a Damiána a otevřel nenápadná dvířka, skrytá v podstavci. Jak je to zvláštní, celý život jsem chodil skoro každý den po Karlově mostě a nikdy jsem si nevšiml, že podstavec sousoší je otevírací. Za dvířky byl vyhloubený prostor, vycházelo z něho světlo a dopadalo na sníh. Vyleze ze sochy skřet, vysune se z otvoru hlava draka nebo se z něho vyvalí rudý proud lávy, stoupající z podzemního jezera?
 
 Ze světlého otvoru vyskočil malý, asi půl metru vysoký los s fosforeskujícím lopatkovitým parožím. Začal vesele poskakovat po sněhu, snažil se strčit hlavu do pytle, ve kterém bylo asi krmení. Muž ve vatované bundě odehnal losa metlou, kterou vytáhl z vozíku, potom pečlivě vymetl dutý prostor za otevřenými dvířky, nastlal dovnitř čerstvé seno z pytle, vyndal z dutiny misku, nalil do ní z plechovky vodu a dal ji zpátky do sousoší. Když skončil, dotlačil vozík k protější soše svatého Václava. I tady otevřel v podstavci dvířka, i tady se za nimi objevila osvětlená dutina, ze které vyskočil malý los. Muž vymetl vnitřek svatého Václava, nastlal do něho seno a nalil do misky vodu. To se opakovalo i u všech dalších soch na mostě. Dvířka zůstávala otevřená, losi, kteří z nich vyskakovali, se po dobu krmení mohli prohánět po sněhu.

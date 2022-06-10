@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-1251ef0';
+const CACHE = 'cache-f593132';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./druhe_mesto_005.html","./druhe_mesto_006.html","./druhe_mesto_008.html","./druhe_mesto_007.html","./druhe_mesto_009.html","./druhe_mesto_010.html","./druhe_mesto_011.html","./druhe_mesto_012.html","./druhe_mesto_013.html","./druhe_mesto_014.html","./druhe_mesto_015.html","./druhe_mesto_016.html","./druhe_mesto_017.html","./druhe_mesto_018.html","./druhe_mesto_019.html","./druhe_mesto_021.html","./druhe_mesto_020.html","./druhe_mesto_022.html","./druhe_mesto_023.html","./druhe_mesto_024.html","./druhe_mesto_025.html","./druhe_mesto_026.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_druhe_mesto_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./druhe_mesto_005.html","./druhe_mesto_006.html","./colophon.html","./druhe_mesto_007.html","./druhe_mesto_008.html","./druhe_mesto_009.html","./druhe_mesto_010.html","./druhe_mesto_011.html","./druhe_mesto_012.html","./druhe_mesto_013.html","./druhe_mesto_015.html","./druhe_mesto_014.html","./druhe_mesto_016.html","./druhe_mesto_017.html","./druhe_mesto_019.html","./druhe_mesto_020.html","./druhe_mesto_018.html","./druhe_mesto_021.html","./druhe_mesto_022.html","./druhe_mesto_024.html","./druhe_mesto_025.html","./druhe_mesto_023.html","./favicon.png","./druhe_mesto_026.html","./index.html","./promo.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/SpaceGroteskVF.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_druhe_mesto_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
