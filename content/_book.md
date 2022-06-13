@@ -13,6 +13,7 @@ meta:
   modified: '2020-04-30T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2498-6
 readingOrder:
   - promo.html
   - druhe_mesto_005.html
