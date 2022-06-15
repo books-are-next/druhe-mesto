@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-druhe-mesto-0d36434",
-  "revision": "0d36434",
+  "identifier": "ajvaz-druhe-mesto-8d51a4f",
+  "revision": "8d51a4f",
   "readingOrder": [
     "promo.html",
     "druhe_mesto_005.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:00:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157634551
+    "date": "Wed Jun 15 2022 05:48:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272111328
   },
   "documents": [
     {
@@ -496,9 +496,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 729,
-      "ideas": 15,
+      "words": 134,
+      "chars": 873,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "druhe_mesto_026.html",
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40682,
-      "chars": 249688,
-      "ideas": 359
+      "words": 40700,
+      "chars": 249832,
+      "ideas": 360
     },
     "chapters": {
       "words": 40560,
