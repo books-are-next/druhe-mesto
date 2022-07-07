@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-druhe-mesto-b5be4c6",
-  "revision": "b5be4c6",
+  "identifier": "ajvaz-druhe-mesto-68d2d12",
+  "revision": "68d2d12",
   "readingOrder": [
     "promo.html",
     "druhe_mesto_005.html",
@@ -34,11 +34,11 @@
     "druhe_mesto_024.html",
     "druhe_mesto_025.html",
     "druhe_mesto_026.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:00:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978417170
+    "date": "Thu Jul 07 2022 08:21:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182095476
   },
   "documents": [
     {
@@ -67,7 +67,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "1 Kniha ve fialové vazbě",
+          "name": "1 Kniha ve fialové vazbě",
           "id": null,
           "children": []
         }
@@ -207,7 +207,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "8 Bistro na Pohořelci",
+          "name": "8 Bistro na Pohořelci",
           "id": null,
           "children": []
         }
@@ -227,7 +227,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "9 Na věži",
+          "name": "9 Na věži",
           "id": null,
           "children": []
         }
@@ -387,7 +387,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "17 Ve zdymadle",
+          "name": "17 Ve zdymadle",
           "id": null,
           "children": []
         }
@@ -482,7 +482,7 @@
       "role": "chapter",
       "order": 22,
       "prev": "druhe_mesto_025.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -495,11 +495,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 873,
+      "chars": 872,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "druhe_mesto_026.html",
       "next": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 40700,
-      "chars": 249832,
+      "chars": 249831,
       "ideas": 360
     },
     "chapters": {
