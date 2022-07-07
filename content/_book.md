@@ -38,7 +38,7 @@ readingOrder:
   - druhe_mesto_024.html
   - druhe_mesto_025.html
   - druhe_mesto_026.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
