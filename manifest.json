@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-druhe-mesto-e989c59",
-  "revision": "e989c59",
+  "identifier": "ajvaz-druhe-mesto-5d1b386",
+  "revision": "5d1b386",
   "readingOrder": [
     "promo.html",
     "druhe_mesto_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:58:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187935058
+    "date": "Thu Jul 21 2022 14:48:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414918522
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 872,
+      "chars": 873,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 40700,
-      "chars": 249831,
+      "chars": 249832,
       "ideas": 360
     },
     "chapters": {
