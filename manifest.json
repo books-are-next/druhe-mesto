@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-druhe-mesto-b2fb467",
-  "revision": "b2fb467",
+  "identifier": "ajvaz-druhe-mesto-d4ef1d3",
+  "revision": "d4ef1d3",
   "readingOrder": [
     "promo.html",
     "druhe_mesto_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:45:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416754411
+    "date": "Fri Oct 21 2022 11:29:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351753667
   },
   "documents": [
     {
